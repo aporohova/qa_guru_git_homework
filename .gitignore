@@ -1,0 +1,6 @@
+HELP.md
+build/
+/.idea
+/.gradle
+!**src/main/**
+!**src/test/**
